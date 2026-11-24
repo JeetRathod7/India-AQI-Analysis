@@ -117,9 +117,3 @@ India-AQI-Analysis/
 ```
 
 ---
-
-## What I'd do next
-
-- Rebuild the same analysis in Python (pandas) to compare the workflow.
-- Add a state-level view using the station file.
-- Compare cities over the same fixed years only, for a cleaner trend.
