@@ -11,11 +11,11 @@ An interactive Power BI dashboard that analyses daily air quality (AQI) across I
 
 | Overview | Trends |
 |---|---|
-| ![Overview](Screenshots/Screenshot%202026-11-24%20100856.png) | ![Trends](Screenshots/Screenshot%202026-11-24%20100945.png) |
+| ![Overview](screenshots/Screenshot%202026-11-24%20100856.png) | ![Trends](screenshots/Screenshot%202026-11-24%20100945.png) |
 
 | Pollutants | AQI Categories |
 |---|---|
-| ![Pollutants](Screenshots/Screenshot%202026-11-24%20101000.png) | ![AQI Categories](Screenshots/Screenshot%202026-11-24%20101251.png) |
+| ![Pollutants](screenshots/Screenshot%202026-11-24%20101000.png) | ![AQI Categories](screenshots/Screenshot%202026-11-24%20101251.png) |
 
 ---
 
