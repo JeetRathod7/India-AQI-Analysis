@@ -11,7 +11,7 @@ An interactive Power BI dashboard that analyses daily air quality (AQI) across I
 
 | Overview | Trends |
 |---|---|
-| ![Overview](C:\Users\Jeet\Downloads\India-AQI-Analysis\screenshots.png) | ![Trends](screenshots/Screenshot%202026-11-24%20100945.png) |
+| ![Overview]("C:\Users\Jeet\Downloads\India-AQI-Analysis\1\Screenshot 2026-11-24 100856.png") | ![Trends](screenshots/Screenshot%202026-11-24%20100945.png) |
 
 | Pollutants | AQI Categories |
 |---|---|
